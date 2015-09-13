@@ -1,0 +1,19 @@
+
+#payouts {
+	padding:30px; 
+	font-family: arial;
+	font-size:18px; 
+	border-width:5px; 
+	border-radius:12px; 
+	border-style: double; 
+	border-color:#878787; 
+	box-shadow: 0px 0px 24px 0px #878787;
+	width: 500px;
+	margin: 100px auto 100px auto;
+	background-color: lightgreen;
+}
+
+ul:last-child {
+	margin-top:20px;
+	font-weight: bold;
+}
